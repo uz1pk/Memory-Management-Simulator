@@ -1,10 +1,3 @@
-/**
- * Usman Zaheer
- * 1148583
- * Assignment 3, CIS 3110 (Operating Systems)
- * Due: Apr 4th, 2022 at Midnight
- **/
-
 #include "holes.h"
 
 /*
